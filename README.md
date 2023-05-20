@@ -4,6 +4,7 @@
 Proyecto de investigación para la materia Seminario de Proyectos III del 4to semestre en la Maestría en Ciencia de Datos e Información del Infotec.
 
 Alumno: Carlos Antonio Rico Martínez
+
 Tema: Detección de anomalias enfocado al fraude financiero.
 
 Descripición del respositorio:
