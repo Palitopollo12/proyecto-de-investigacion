@@ -16,7 +16,7 @@ Revisores:
      - Revisor 2: Sin asignar   
      
 Entregables:
-- [Trabjao escrito](escrito/CARM_PT_ENTREGA1.pdf) 
+- [Trabajo escrito](escrito/CARM_PT_ENTREGA1.pdf) 
 
 - [Jupyter notebook con el análisis exploratorio de los datos y el primer modelo aplicado.](codigo/U1_AB_CARM.pdf)  
      
