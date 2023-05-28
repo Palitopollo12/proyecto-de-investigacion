@@ -17,8 +17,8 @@ Revisores:
      
 Entregables:
 
-     - #Trabjao escrito#https://github.com/seminario-proyectos-infotec/Galleria0224/blob/87dbaafb1a85b393c097fbbe2b2b9fe1926106fb/codigo/U1_AB_CARM.pdf
+     - [Trabjao escrito](https://github.com/seminario-proyectos-infotec/Galleria0224/blob/87dbaafb1a85b393c097fbbe2b2b9fe1926106fb/codigo/U1_AB_CARM.pdf)
           
-     - Jupyter notebook con el análisis exploratorio de los datos y el primer modelo aplicado. 
+     - [Jupyter notebook con el análisis exploratorio de los datos y el primer modelo aplicado.]() 
      
-     - Presentación del proyecto.
+     - [Presentación del proyecto.]()
