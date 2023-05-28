@@ -10,10 +10,9 @@ Alumno: Carlos Antonio Rico Martínez
 Correo: carlos.2302@hotmail.com
 
 Revisores:
-
-     - Revisor 1: Sin asignar
-     
-     - Revisor 2: Sin asignar   
+- Revisor 1: Sin asignar
+    
+- Revisor 2: Sin asignar   
      
 Entregables:
 - [Trabajo escrito](escrito/CARM_PT_ENTREGA1.pdf) 
