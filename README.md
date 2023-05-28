@@ -6,6 +6,7 @@ Trabajo de investigación para la materia Seminario de Proyectos III del 4to sem
 Tema: Detección de anomalias enfocado al fraude financiero.
 
 Alumno: Carlos Antonio Rico Martínez
+
 Correo: carlos.2302@hotmail.com
 
 Revisores:
