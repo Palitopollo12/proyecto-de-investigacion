@@ -14,6 +14,6 @@ Revisores:
      - Revisor 2: Sin asignar   
      
 Entregables:
-     - Trabajo escrito.
-     - Jupyter notebook con el análisis exploratorio de los datos y el primer modelo aplicado.
+     - Trabajo escrito.//
+     - Jupyter notebook con el análisis exploratorio de los datos y el primer modelo aplicado.//
      - Presentación del proyecto.
