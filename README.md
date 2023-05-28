@@ -17,6 +17,6 @@ Revisores:
 Entregables:
 - [Trabajo escrito](escrito/CARM_PT_ENTREGA1.pdf) 
 
-- [Jupyter notebook con el análisis exploratorio de los datos y el primer modelo aplicado.](codigo/U1_AB_CARM.pdf)  
+- [Jupyter notebook con el análisis exploratorio de los datos y el primer modelo aplicado.](codigo/U1_AB_CARM.ipynb)  
      
 - [Presentación del proyecto.](https://youtu.be/IhFIr61x26k)
